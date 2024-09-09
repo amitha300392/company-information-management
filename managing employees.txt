@@ -1,0 +1,2 @@
+ng generate component employee-list
+ng generate component employee-form
